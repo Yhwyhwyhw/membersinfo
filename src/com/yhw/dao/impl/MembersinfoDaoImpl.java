@@ -36,4 +36,9 @@ public class MembersinfoDaoImpl extends BaseDao implements MembersinfoDao {
         }
         return list;
     }
+
+    @Override
+    public int delete(Membersinfo membersinfo) {
+        return 0;
+    }
 }
