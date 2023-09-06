@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    padding-top: 50px;
+}
+
+#addSCR{
+    text-align: center;
+    padding-top: 15px;
+    cursor: pointer;
+}
+
+#from{
+    width: 800px;
+    margin-top: 20px;
+    margin-left: 400px;
+    padding-top: 200px;
+}
+
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr,td{
+    padding: 10px;
+}
+td{
+
+}
+
+#del{
+    cursor: pointer;
+}
